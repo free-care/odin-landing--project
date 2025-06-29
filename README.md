@@ -7,10 +7,6 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [File Structure](#file-structure)
-- [Customization](#customization)
-- [License](#license)
 
 ## Project Description
 This is a responsive landing page template built with modern HTML5 and CSS3. It was created as part of The Odin Project curriculum to demonstrate proficiency in front-end web development fundamentals including:
